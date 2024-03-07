@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://www.itxd.com.au/</loc>
+
+      <lastmod>2024-02-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://itxd.com.au/webStore.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://itxd.com.au/index.html#services</loc>
+
+      <lastmod>2024-02-23</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://itxd.com.au/index.html#portfolio</loc>
+
+      <lastmod>2024-02-23</lastmod>
+
+      <priority>0.3</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://itxd.com.au/index.html#about</loc>
+
+      <lastmod>2024-02-23</lastmod>
+
+   </url>
+    
+   <url>
+
+      <loc>https://itxd.com.au/index.html#contact</loc>
+
+      <lastmod>2024-02-23</lastmod>
+
+   </url>
+
+</urlset>
